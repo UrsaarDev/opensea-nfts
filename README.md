@@ -12,13 +12,11 @@ REACT_APP_INFURA_KEY = ...
 
 ## Available Scripts
 
-In the project directory, you can run:
-
-### `yarn`
+### `1. yarn`
 
 To install necessary packages, please run this command.
 
-### `yarn start`
+### `2. yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
