@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Configuration
 
-REACT_APP_API_KEY = 
-REACT_APP_MNEMONIC = 
-REACT_APP_INFURA_KEY = 
+REACT_APP_API_KEY = ...\
+REACT_APP_MNEMONIC = ...\
+REACT_APP_INFURA_KEY = ...\ 
 
 ## Available Scripts
 
