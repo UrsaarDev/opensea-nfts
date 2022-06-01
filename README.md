@@ -1,10 +1,20 @@
-# Getting Started with Create React App
+# Getting Started with Opensea card shows
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Configuration
+
+REACT_APP_API_KEY = 
+REACT_APP_MNEMONIC = 
+REACT_APP_INFURA_KEY = 
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn`
+
+To install necessary packages, please run this command.
 
 ### `yarn start`
 
