@@ -35,6 +35,10 @@ const GlobalStyle = createGlobalStyle`
         }
     }
 
+    body {
+        background: #0F1030;
+    }
+
     ::selection {
         background-color: rgb(21, 178, 229);
         color: rgb(255, 255, 255);

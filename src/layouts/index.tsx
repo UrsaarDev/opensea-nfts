@@ -50,7 +50,6 @@ const StyledContainer = styled(Box)`
     display: flex;
     flex-direction: column;
     min-height: 100%;
-    background-color: rgb(255, 255, 255);
 `
 
 const Body = styled(Box)`
